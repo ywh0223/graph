@@ -1,0 +1,128 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1071031",
+      "name": "问答1",
+      "font_class": "wenda1",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "1288158",
+      "name": "智能算法",
+      "font_class": "zhinengsuanfa",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "1305461",
+      "name": "表格",
+      "font_class": "biaoge",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1881554",
+      "name": "企业图谱",
+      "font_class": "qiyetupu",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "5961321",
+      "name": "AI",
+      "font_class": "wuguan",
+      "unicode": "ec5f",
+      "unicode_decimal": 60511
+    },
+    {
+      "icon_id": "9833318",
+      "name": "知识图谱2",
+      "font_class": "zhishitupu",
+      "unicode": "e918",
+      "unicode_decimal": 59672
+    },
+    {
+      "icon_id": "11121489",
+      "name": "模块",
+      "font_class": "mokuai",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "11372655",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "11520190",
+      "name": "数据源",
+      "font_class": "shujuyuan",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "12369809",
+      "name": "dc-icon-人工智能",
+      "font_class": "dc-icon-rengongzhineng",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "12719947",
+      "name": "流程",
+      "font_class": "liucheng",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "18174885",
+      "name": "文件,zip",
+      "font_class": "zip",
+      "unicode": "ea4a",
+      "unicode_decimal": 59978
+    },
+    {
+      "icon_id": "20009226",
+      "name": "pocket口袋",
+      "font_class": "pocketkoudai",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "22916933",
+      "name": "集成算法",
+      "font_class": "jichengsuanfa",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "23512765",
+      "name": "部署",
+      "font_class": "bushu",
+      "unicode": "e86d",
+      "unicode_decimal": 59501
+    },
+    {
+      "icon_id": "24275425",
+      "name": "场景",
+      "font_class": "changjing",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "28139826",
+      "name": "数据目录管理",
+      "font_class": "icon_xinyong_xianxing_jijin-265",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    }
+  ]
+}
